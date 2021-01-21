@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "583460273808",
+    "firebase_url": "https://betaecommerce-beb8d.firebaseio.com",
+    "project_id": "betaecommerce-beb8d",
+    "storage_bucket": "betaecommerce-beb8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583460273808:android:16a9cf76946c148524e215",
+        "android_client_info": {
+          "package_name": "com.example.betaecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583460273808-m24hepv4es3pj2p4essn1vhj2d2pg0jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA71QreOL9ur7JX_Dhjzvyb-PZXmkJeaV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583460273808-m24hepv4es3pj2p4essn1vhj2d2pg0jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
